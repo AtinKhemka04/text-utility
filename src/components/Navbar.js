@@ -30,11 +30,11 @@ export default function Navbar(props) {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-a mx-3 " href="/">
-                  About
-                </a>
-              </li>
+              // <li className="nav-item">
+              //   <a className="nav-a mx-3 " href="/">
+              //     About
+              //   </a>
+              // </li>
             </ul>
             <form className="d-flex" role="search">
               {/* <input
